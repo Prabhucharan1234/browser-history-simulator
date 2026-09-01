@@ -1,0 +1,28 @@
+1. Passport automation System
+1: DEVELOPMENT OF PROBLEM STATEMENT
+1: Development of Problem Statement
+Aim
+To develop the problem statement for the Passport Automation System.
+Problem Statement
+The existing passport application process is manual and takes more time. Applicants have to
+visit the passport office several times for registration, document verification, and passport
+collection. This leads to delays and paperwork.
+The Passport Automation System provides an online platform where users can register, apply
+for a passport, upload documents, pay fees, and track the application status.
+Objectives
+ Reduce manual work.
+ Provide online passport application.
+ Store applicant details securely.
+ Enable online status tracking.
+ Improve processing speed.
+Modules
+
+ User Registration
+ User Login
+ Passport Application
+ Document Upload
+ Fee Payment
+ Status Tracking
+ Admin Verification
+Result
+The problem statement was successfully developed.
